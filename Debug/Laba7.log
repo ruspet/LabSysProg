@@ -1,0 +1,4 @@
+﻿  Laba7.cpp
+C:\Users\Денис\source\repos\Laba7\Laba7.cpp(127,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Денис\source\repos\Laba7\Laba7.cpp(119): warning C4715: List<int>::operator[]: значение возвращается не при всех путях выполнения
+  Laba7.vcxproj -> C:\Users\Денис\source\repos\Laba7\Debug\Laba7.exe
