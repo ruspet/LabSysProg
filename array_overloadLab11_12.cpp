@@ -25,7 +25,7 @@ public:
         arrGen = nullptr;
 
     }
-    // конструктор для массива заданной длины
+    // конструктор для массива заданной длинны
     arrGeneric(int leng)
     {
         length = leng;
@@ -35,7 +35,7 @@ public:
         nomber++;
     }
     
-    // конструктор для массива заданной длиной и именем
+    // конструктор для массива заданной длинны и именем
     arrGeneric(int leng, string name)
     {
         length = leng;
